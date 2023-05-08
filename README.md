@@ -1,4 +1,4 @@
-# LabStreamingLayer(LSL)-enabled Onscreen keyboard typeing test program built in Unity #
+# LabStreamingLayer(LSL)-enabled Onscreen keyboard typing test program built in Unity #
 
 This is a simple touch screen typing test program in Unity. The program has LSL embedded which can be picked up with Lab Recorder or other LSL compatible programs for precise events and timestamps. Currently the program is hard coded for a screen resolution of 1920x1280 but the keyboard can be easily modified by replacing the keyboard image in "Typing" scene and resizing/modifying colliders of each key. 
 
